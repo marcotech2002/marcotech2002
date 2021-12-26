@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @marcotech2002
+- 👋 Hi, I’m Marco Antônio Porsch Henck de Almeida
 - 👀 I’m interested in data science, AI, fullstack development, systems automations and cyber security
-- 🌱 I’m currently learning C++, Java, PowerBI, Arduino, R, Python and C#
+- 🌱 I’m currently learning C++, Java, PowerBI, Arduino, R, Python, C# and Angular
 - 💞️ I’m looking to collaborate on simple projects to develop my own skills and help others to learn computer programming
 - 📫 How to reach me
         - Linkedin: https://www.linkedin.com/in/marco-ant%C3%B4nio-porsch-henck-de-almeida-581a8a1a7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_
