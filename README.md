@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marco Antônio Porsch Henck de Almeida
-- 👀 I’m interested in data science, AI, fullstack development, systems automations and cyber security
+- 👀 I’m interested in data science, AI, fullstack development, systems automations and robotics
 - 🌱 I’m currently learning C++, Java, PowerBI, Arduino, R, Python, C# and Angular
 - 💞️ I’m looking to collaborate on simple projects to develop my own skills and help others to learn computer programming
 - 📫 How to reach me:       
