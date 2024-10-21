@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++, PowerBI, Arduino, Python, .Net and Angular
 - 💞️ I’m looking to collaborate on simple projects to develop my own skills and help others to learn computer programming
 - 📫 How to reach me:       
-        - Linkedin: [l](https://www.linkedin.com/in/marco-ant%C3%B4nio-almeida-581a8a1a7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkTbprx6aRtqqz5NKFf1bMw%3D%3D)
+        - [Linkedin](https://www.linkedin.com/in/marco-antônio-almeida-581a8a1a7/)
 
 <!---
 marcotech2002/marcotech2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
