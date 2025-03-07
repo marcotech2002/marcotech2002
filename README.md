@@ -8,7 +8,7 @@ Como Trabalho de Conclusão de Curso (TCC), desenvolvi um projeto envolvendo red
 
 Sou apaixonado por desafios tecnológicos e estou constantemente buscando novas oportunidades para aprender e contribuir com soluções inovadoras.
 
-Também possuo a minha empresa, MMXXII - Engenharia e Meio Ambiente LTDA! Atravéz dela são oferecidos serviços nos seguintes sgmentos:
+Também possuo a minha empresa, MMXXII - Engenharia e Meio Ambiente LTDA! Através dela são oferecidos serviços nos seguintes segmentos:
 - 🖥️ TI: outsourcing e software como serviço
 - 🏗️ Engenharia Civil: consultorias técnicas e construção civil
 - 🌱 Meio Ambiente: implementação de biodigestores
