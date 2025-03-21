@@ -21,6 +21,7 @@ Tamb√©m possuo a minha empresa, MMXXII - Engenharia e Meio Ambiente LTDA! Atrav√
 
 [![Static Badge](https://img.shields.io/badge/_-white?logo=dotnet&logoColor=white&logoSize=auto&color=%23512BD4)](https://dotnet.microsoft.com/pt-br/)
 [![Static Badge](https://img.shields.io/badge/C%23-white?color=%236D287E)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
+[![Static Badge](https://img.shields.io/badge/Python-yellow?logo=python)](https://www.python.org/community/logos/)
 
 ### Frontend
 
